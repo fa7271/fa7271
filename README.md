@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=fa7271&show_icons=true">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=windy7271)](https://solved.ac/windy7271)
+[![windy7271's GitHub stats](https://github-readme-stats.vercel.app/api?username=windy7271)](https://github.com/windy7271/github-readme-stats)
 <!--
 **fa7271/fa7271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
